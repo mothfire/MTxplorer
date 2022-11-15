@@ -16,6 +16,8 @@ cd MTxplorer
 pip3 install -r requirements.txt
 ```
 
+Install Solidity Compiler (solc).
+
 Run:
 
 ```
