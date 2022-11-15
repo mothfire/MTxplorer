@@ -4,6 +4,8 @@
 
 A security analysis tool for EVM bytecode based on [Mythril](https://github.com/ConsenSys/mythril).
 
+Our paper: Multi-transaction Sequence Vulnerability Detection for Smart Contracts Based on Inter-path Data Dependency ([QRS 2022](https://qrs22.techconf.org/))
+
 
 ## Usage
 
